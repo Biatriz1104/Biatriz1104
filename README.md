@@ -1,11 +1,11 @@
 ## Olá! sou a Bia
 - 📖 graduando em ciencias da computação
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Biatriz1104&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Biatriz1104&layout=compact)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Biatriz1104&show_icons=true&theme=radical)![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Biatriz1104&layout=compact&theme=dark)
 
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="70" height="70" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" width="70" height="70"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="50" height="50" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" width="50" height="50"/>
+##
           
 <div> 
  <a href="https://discord.gg/849630585672564797" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
