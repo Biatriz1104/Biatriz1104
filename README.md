@@ -1,7 +1,7 @@
 ## Olá! sou a Bia
 - 📖 graduando em ciencias da computação
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Biatriz1104&show_icons=true&theme=radical)   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Biatriz1104&layout=compact&theme=dark)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Biatriz1104&show_icons=true&theme=radical)   
 
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="50" height="50" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" width="50" height="50"/>
